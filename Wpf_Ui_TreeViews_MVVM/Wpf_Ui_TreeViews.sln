@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_UI(1)", "WPF_UI(1)\WPF_UI(1).csproj", "{17187F10-BFE8-4A79-BB5A-8B6C9C1EE1B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Ui_TreeViews", "Wpf_Ui_TreeViews\Wpf_Ui_TreeViews.csproj", "{FC016E99-8E21-4CCC-A966-8B39567EC569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17187F10-BFE8-4A79-BB5A-8B6C9C1EE1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17187F10-BFE8-4A79-BB5A-8B6C9C1EE1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17187F10-BFE8-4A79-BB5A-8B6C9C1EE1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17187F10-BFE8-4A79-BB5A-8B6C9C1EE1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC016E99-8E21-4CCC-A966-8B39567EC569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC016E99-8E21-4CCC-A966-8B39567EC569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC016E99-8E21-4CCC-A966-8B39567EC569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC016E99-8E21-4CCC-A966-8B39567EC569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5297829C-45FA-4188-B53A-32FCFC8CC7D6}
+		SolutionGuid = {303F42A1-047B-489D-B672-045E5DAD5581}
 	EndGlobalSection
 EndGlobal
